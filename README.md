@@ -1,4 +1,4 @@
 resource
 ========
 
-resource
+Raw URI Resource
